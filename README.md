@@ -1,5 +1,6 @@
 # VisionAid - AI-Driven Diabetic Retinopathy Detection
-#This is for SJIM Healthcare Hackathon
+# This is for SJIM Healthcare Hackathon
+---
 VisionAid is a scalable, AI-powered diagnostic solution designed to automate and enhance the detection of Diabetic Retinopathy (DR). Leveraging advanced machine learning models and Intel's cutting-edge technologies, VisionAid aims to provide early, accurate, and accessible DR diagnosis, particularly in underserved regions.
 
 ---
